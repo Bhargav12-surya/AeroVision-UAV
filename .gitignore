@@ -1,0 +1,33 @@
+# Byte‑size ignore for typical Python projects
+# Virtual envs
+uav_env/
+venv/
+.env
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data / model binaries (track with Git LFS if desired)
+*.pt
+*.npy
+*.npz
+*.h5
+*.ckpt
+
+# Generated output & logs
+runs/
+*.log
+*.csv
+*.png
+*.jpg
+
+# OS‑specific files
+.DS_Store
+Thumbs.db
+
