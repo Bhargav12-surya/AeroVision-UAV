@@ -1,0 +1,8 @@
+path: C:\Users\rambh\OneDrive - Amrita Vishwa Vidyapeetham\Documents\4th Sem\AIR\AIR PROJECT\Uav_part1\data
+train: images/train
+val: images/val
+test: images/test
+
+# HIT-UAV Classes
+nc: 1
+names: ['person']

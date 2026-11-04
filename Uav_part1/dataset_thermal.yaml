@@ -1,0 +1,5 @@
+﻿path: ./data
+train: thermal/images/train
+val: thermal/images/val
+names:
+  0: human

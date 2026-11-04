@@ -1,0 +1,5 @@
+﻿path: ./data
+train: rgb/images/train
+val: rgb/images/val
+names:
+  0: human
